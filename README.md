@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakibul Hasan</h1>
-<h3 align="center">A passionate Full Stack Web developer from Bangladesh.</h3>
 <img src="https://miro.medium.com/v2/resize:fit:1358/0*MLqvFzwwZFAuOgup.gif">
+<br>
+<h3 align="center">A passionate Full Stack Web developer from Bangladesh.</h3>
 
 
 
