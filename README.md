@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakibul Hasan</h1>
-<img src="https://miro.medium.com/v2/resize:fit:1358/0*MLqvFzwwZFAuOgup.gif">
+![Image](https://github.com/user-attachments/assets/598ac8b9-d9b4-4545-a74e-cf727a8276eb)
 <br>
 <h3 align="center">A passionate Full Stack Web developer from Bangladesh.</h3>
 
