@@ -1,5 +1,5 @@
+![Image](https://github.com/user-attachments/assets/0e29ddc7-e8fa-4cff-a05f-8e9bce415b3f)
 <h1 align="center">Hi 👋, I'm Rakibul Hasan</h1>
-![Image](https://github.com/user-attachments/assets/598ac8b9-d9b4-4545-a74e-cf727a8276eb)
 <br>
 <h3 align="center">A passionate Full Stack Web developer from Bangladesh.</h3>
 
