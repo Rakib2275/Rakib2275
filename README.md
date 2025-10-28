@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rakib932676@gmail.com**
 
-- ⚡ Fun fact **I am Funny.**
+- ⚡ Fun fact **I am Funny Person.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
