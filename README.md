@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0e29ddc7-e8fa-4cff-a05f-8e9bce415b3f" width="150" height="150" style="border-radius:50%;" alt="Rakibul Hasan Avatar"/>
+  <img src="https://github.com/user-attachments/assets/0e29ddc7-e8fa-4cff-a05f-8e9bce415b3f" width="100%" style="border-radius:50%;" alt="Rakibul Hasan Avatar"/>
 </p>
 
 <p align="center">
