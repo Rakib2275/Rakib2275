@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rakibul Hasan
 
-<h3 align="center">🚀 Full Stack Web Developer | CSE Student | Tech Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Web Developer</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Rakibul%20Hasan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Ideas%20Into%20Digital%20Solutions&descAlignY=55&descSize=17" width="100%" />
