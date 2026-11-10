@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **E-Commerce Website**
+- 🔭 I’m currently working on **AI-Powered Business Intelligence Platform**
 
 - 🌱 I’m currently learning **Nextjs, Docker**
 
